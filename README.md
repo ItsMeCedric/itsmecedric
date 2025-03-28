@@ -18,3 +18,7 @@ example badge
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 -->
+
+## Stats
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itsmecedric.visitor-badge)
