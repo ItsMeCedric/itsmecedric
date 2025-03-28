@@ -21,4 +21,4 @@ example badge
 
 ## Stats
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iItsMeCedric.itsmecedric)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ItsMeCedric.itsmecedric)
